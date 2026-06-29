@@ -2,7 +2,7 @@
 
 A responsive, multi-page concept website for a modern café brand — built to demonstrate clean UI, component-based architecture, and smooth client-side routing.
 
-**Live Site →** [marigoldcafe.netlify.app](https://marigoldcafe.netlify.app) *(update with actual URL)*
+**Live Site →** https://marigoldcaf.netlify.app/
 
 -----
 
